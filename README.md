@@ -9,5 +9,5 @@ My key skills in data science project include EDA(Exploratory data analysis).
 *Advanced Excel
 *Data Analysis.
 ### Contact
-https://www.linkedin.com/feed/?trk=onboarding-landing 
+www.linkedin.com/in/raju-kumar-gupta-data-analysis
 ### Mobile No. 7007099958
